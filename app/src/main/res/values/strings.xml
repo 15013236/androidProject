@@ -1,0 +1,16 @@
+<resources>
+    <!-- Default generated strings-->
+    <string name="app_name">StudentLife</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <!-- Home screen string declarations -->
+    <string name="progress_tracker">Progress tracker</string>
+    <string name="finance_manager">Finance manager</string>
+    <string name="home_money">Use the finance manager to help keep on track of your finances. View reports, set recurring incomes and ultimately relieve yourself of unneeded pressure!</string>
+    <string name="home_progress">Keep track of your studies using the progress tab: manage expected grades, goals and memo\'s. This app will help keep things nice and simple for you.</string>
+    <string name="home_title">Welcome to StudentLife!</string>
+    <string name="home_maintitle">Take a look!</string>
+    <string name="home_maintitle2">Wait, there\'s more...</string>
+    <string name="todo">TODO</string>
+</resources>

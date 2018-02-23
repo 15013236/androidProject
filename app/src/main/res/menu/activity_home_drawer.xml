@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@mipmap/ic_home_black_48dp"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_money"
+            android:icon="@mipmap/ic_attach_money_black_48dp"
+            android:title="Finances" />
+        <item
+            android:id="@+id/nav_progress"
+            android:icon="@mipmap/ic_grade_black_48dp"
+            android:title="Progress tracker" />
+        <item
+            android:id="@+id/nav_extra"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Slideshow" />
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@mipmap/ic_settings_black_48dp"
+            android:title="Settings" />
+    </group>
+    <!-- Possible further revision, categorise into sub-categories -> more choice -->
+    <!--<item android:title="Finances">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@mipmap/ic_attach_money_black_48dp"
+                android:title="Dashboard" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="History" />
+        </menu>
+    </item>-->
+</menu>
